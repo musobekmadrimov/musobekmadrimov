@@ -30,11 +30,11 @@
 My name is Musobek Madrimov :call_me_hand: ! I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uzbekistan.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
-
 - :zap: In my free time, I solve problems on Hackerrank.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-musobekmadrimov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/musobekmadrimov/)
+- :mailbox:How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-musobekmadrimov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/musobekmadrimov/) &nbsp; or &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/640px-Telegram_logo.svg.png" alt="Telegram Badge" width="30" height="30"/>](https://t.me/musobekmadrimov)
+ 
+
 
 <div align="center"> <h1> :hammer_and_wrench: Languages and Tools : </h1>
 <div>
