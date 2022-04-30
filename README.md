@@ -3,6 +3,7 @@
 <div id="header" align="center">
 <!--   <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="400"/> -->
   <h1> Musobek Madrimov </h1>
+  
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/musobekmadrimov/">
@@ -32,8 +33,9 @@ My name is Musobek Madrimov :call_me_hand: ! I am a Full Stack Developer <img sr
 
 - :zap: In my free time, I solve problems on Hackerrank.
 
-- :mailbox:How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-musobekmadrimov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/musobekmadrimov/) &nbsp; or &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/640px-Telegram_logo.svg.png" alt="Telegram Badge" width="30" height="30"/>](https://t.me/musobekmadrimov)
+- :mailbox:How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-musobekmadrimov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/musobekmadrimov/) &nbsp; or &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/640px-Telegram_logo.svg.png" alt="Telegram Badge" width="30" height="30"/>](https://t.me/musobekmadrimov/)
  
+- :globe_with_meridians: Portfolio Website: https://musobekmadrimov.netlify.app
 
 
 <div align="center"> <h1> :hammer_and_wrench: Languages and Tools : </h1>
